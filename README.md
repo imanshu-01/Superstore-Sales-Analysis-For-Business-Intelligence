@@ -42,13 +42,17 @@ The project follows the **complete analytics workflow**:
 # 📂 Project Structure
 
 ```
-Project-Build-Superstore-Sales-Analysis
+Project-Build-Superstore-Sales-Analysis/
 │
 ├── Cleaned_Superstore.csv
 ├── Superstore_raw_dataset.csv
 ├── Superstore_sales_data_analysis.ipynb
 ├── Customer_And_Products.sql
-├── Superstore_Sales_Analysis_Presentation.pdf
+├── |Assets/
+    |── Superstore_Sales_Analysis_Python.pptx
+    |── Superstore_Sales_Analysis_MySQL.pptx
+|── |Assets2/
+    |── PDF DOC.pdf
 └── README.md
 ```
 
