@@ -1,4 +1,4 @@
-# 📊 Superstore Sales Analysis (Python + MySQL)
+# 📊 Superstore Sales Analysis (Python + MySQL + PowerBI)
 
 ## 📌 Project Overview
 
