@@ -38,6 +38,7 @@ The project follows the **complete analytics workflow**:
 | **Matplotlib / Seaborn** | Data visualization                         |
 | **Jupyter Notebook**     | Analysis environment                       |
 | **Microsoft PowerPoint** | Business insights presentation             |
+| **Microsoft PowerBI**    | Superstore Sales Perfomance Dashboard      |
 
 ---
 
@@ -50,6 +51,7 @@ Project-Build-Superstore-Sales-Analysis/
 ├── Superstore_raw_dataset.csv
 ├── Superstore_sales_data_analysis.ipynb
 ├── Customer_And_Products.sql
+├── Sales_Analysis_Database.pbix
 ├── |Assets/
     |── Superstore_Sales_Analysis_Python.pptx
     |── Superstore_Sales_Analysis_MySQL.pptx
